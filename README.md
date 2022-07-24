@@ -4,13 +4,14 @@
 
 大綱
 
-## Block Chain 核心概念
-### Cyperpunk 
-Hash, POW, B-Money -> Bitcoin
+## 1. Block Chain 核心概念
+### Cyperpunk：Hash, POW, B-Money -> Bitcoin
 ### 什麼是區塊鏈
 ### 常見五類應用
 
-## Block Chain 技術原理
+## 2. Block Chain 技術原理
 ### 貨幣的概念 與 數位貨幣 --> 信任的基礎
 ### 數位貨幣的特性 --> 自控、有限、無法偽造、流通性
 ### Bitcoin 去中心化與應用
+
+### 3以太坊
